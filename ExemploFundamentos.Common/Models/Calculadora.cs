@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace projects_DIO.Src.Models
+namespace projects_DIO.Common.Models
 {
     public class Calculadora
     {
